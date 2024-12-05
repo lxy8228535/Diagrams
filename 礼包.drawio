@@ -1,9 +1,211 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="第 1 页" id="3upOg8B94lLjIhp_oJWG">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-2" target="_icKPDOc7sp7Bw_FcFkU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-2" value="通过数据显示礼包弹窗showPackByData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-3" target="_icKPDOc7sp7Bw_FcFkU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-3" target="_icKPDOc7sp7Bw_FcFkU-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-3" target="_icKPDOc7sp7Bw_FcFkU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-3" target="_icKPDOc7sp7Bw_FcFkU-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-3" value="通过点位显示礼包弹窗showPackByShowPos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="260" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-6" target="_icKPDOc7sp7Bw_FcFkU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-6" value="主界面点击新手礼包、免广告礼包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-8" value="SpecialPackDialog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-10" target="_icKPDOc7sp7Bw_FcFkU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-10" target="_icKPDOc7sp7Bw_FcFkU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-10" value="展示礼包方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-14" target="_icKPDOc7sp7Bw_FcFkU-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-14" value="进入游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="380" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-15" value="关闭插屏广告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="380" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-16" value="激励视频观看成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="380" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-17" target="_icKPDOc7sp7Bw_FcFkU-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-17" value="关卡结算返回主界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="380" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-22" target="_icKPDOc7sp7Bw_FcFkU-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-22" value="是否有礼包数据" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="500" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-27" target="_icKPDOc7sp7Bw_FcFkU-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-27" value="是否包含此点位" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="610" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-29" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="568" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-41" target="_icKPDOc7sp7Bw_FcFkU-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-41" value="是否大于弹出概率" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="720" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-43" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="688" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-44" target="_icKPDOc7sp7Bw_FcFkU-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-44" value="是否满足解锁条件" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="830" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-46" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="788" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-47" target="_icKPDOc7sp7Bw_FcFkU-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-47" value="是否达到点位生效关卡" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="940" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-49" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="900" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-50" target="_icKPDOc7sp7Bw_FcFkU-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-50" value="是否满足弹出关卡" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1050" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-52" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1010" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-53" target="_icKPDOc7sp7Bw_FcFkU-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-53" value="是否没有超过显示限制次数" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1169" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-55" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1118" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-56" target="_icKPDOc7sp7Bw_FcFkU-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-56" value="进入是否只显示一次，但没有显示过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1280" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-58" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1238" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-59" target="_icKPDOc7sp7Bw_FcFkU-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-59" value="是否在购买限制次数以内" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1400" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-61" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1358" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-62" target="_icKPDOc7sp7Bw_FcFkU-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-62" value="是否在购买限制次数以内" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1520" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-64" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1480" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-65" target="_icKPDOc7sp7Bw_FcFkU-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-65" value="需要购买的礼包是否已经购买" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1640" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-67" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1598" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-71" target="_icKPDOc7sp7Bw_FcFkU-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-71" target="_icKPDOc7sp7Bw_FcFkU-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-71" value="是否根据权重抽取（只有进入游戏是随机抽取）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1760" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-73" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1718" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-74" target="_icKPDOc7sp7Bw_FcFkU-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-74" value="根据权重随机抽取一个礼包弹窗数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_icKPDOc7sp7Bw_FcFkU-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="2010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="1970" />
+              <mxPoint x="590" y="1970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-75" value="获取第一个礼包弹窗数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1765" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-77" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1838" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-79" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1768" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_icKPDOc7sp7Bw_FcFkU-80" value="根据弹窗数据的弹窗名展示相应弹窗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="2010" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
